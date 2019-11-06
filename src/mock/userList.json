@@ -1,0 +1,26 @@
+[
+    {
+        "id":1001,
+        "user":"mayun",
+        "nick":"马云",
+        "pwd":"123456",
+        "avator":"mayun.png",
+        "age":18
+    },
+    {
+        "id":1002,
+        "user":"zhangsanfeng",
+        "nick":"张三丰",
+        "pwd":"123456",
+        "avator":"zhangsanfeng.png",
+        "age":180
+    },
+    {
+        "id":1003,
+        "user":"xiaoxin",
+        "nick":"蜡笔小新",
+        "pwd":"123456",
+        "avator":"1.png",
+        "age":4
+    }
+]
